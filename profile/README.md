@@ -6,7 +6,7 @@ Welcome to the page of the Progressively Crew.
 
 [Progressively](https://github.com/progressively-crew/progressively) is a naive feature flag solution focusing on providing lightweight client side SDKs and an accessible dashboard. It also does not track anything about the users, only flag requested and their variations.
 
-### 🌈 Contribution guidelines
+### 🌈 Contributions
 
 We are looking for people wanting to try the tool as it is and to provide feedback on what they expect it to be or to do.
 
