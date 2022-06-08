@@ -1,12 +1,23 @@
 ## Hi there 👋
 
-<!--
+Welcome to the page of the Progressively Crew.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🙋‍♀️ A short introduction
+
+[Progressively](https://github.com/progressively-crew/progressively) is a naive feature flag solution focusing on providing lightweight client side SDKs and an accessible dashboard. It also does not track anything about the users, only flag requested and their variations.
+
+### 🌈 Contribution guidelines
+
+We are looking for people wanting to try the tool as it is and to provide feedback on what they expect it to be or to do.
+
+Also, it would be very interesting to create new SDKs so that people from other community can use this tool. Feel free to contact us if you're interested in building something like that.
+
+
+### 👩‍💻 Useful resources
+
+- [The main repository (frontend, backend and core SDKs)](https://github.com/progressively-crew/progressively)
+- [The documentation website](https://progressively-crew.github.io/)
+
+### 🍿 Fun facts
+
