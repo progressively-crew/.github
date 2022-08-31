@@ -22,7 +22,7 @@ Also, it would be very interesting to create new SDKs so that people from other 
 ### 👩‍💻 Useful resources
 
 - [The main repository (frontend, backend and core SDKs)](https://github.com/progressively-crew/progressively)
-- [The documentation website](https://progressively-crew.github.io/)
+- [The documentation](https://github.com/progressively-crew/progressively/wiki)
 
 ### 🍿 Fun facts
 
